@@ -7,3 +7,5 @@ how to disable HDCP!!!!
 3. rename the file name with .reg extension
 4. run the newly created reg file and press ok
 5. then restart your PC
+
+Same Steps for Re-enabling HDCP
